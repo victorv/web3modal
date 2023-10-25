@@ -16,7 +16,7 @@
     "@sentry/tracing": "7.60.0",
     "@web3modal/ethereum": "2.7.1",
     "@web3modal/react": "2.7.1",
-    "next": "13.4.12",
+    "next": "13.5.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hot-toast": "2.4.1",
